@@ -1,0 +1,85 @@
+{
+    "alcohol": {
+        "preprocessing": {
+            "fill_value": 0,
+            "missing_value_strategy": "fill_with_const",
+            "normalization": null
+        }
+    },
+    "chlorides": {
+        "preprocessing": {
+            "fill_value": 0,
+            "missing_value_strategy": "fill_with_const",
+            "normalization": null
+        }
+    },
+    "citric_acid": {
+        "preprocessing": {
+            "fill_value": 0,
+            "missing_value_strategy": "fill_with_const",
+            "normalization": null
+        }
+    },
+    "density": {
+        "preprocessing": {
+            "fill_value": 0,
+            "missing_value_strategy": "fill_with_const",
+            "normalization": null
+        }
+    },
+    "fixed_acidity": {
+        "preprocessing": {
+            "fill_value": 0,
+            "missing_value_strategy": "fill_with_const",
+            "normalization": null
+        }
+    },
+    "free_sulfur_dioxide": {
+        "preprocessing": {
+            "fill_value": 0,
+            "missing_value_strategy": "fill_with_const",
+            "normalization": null
+        }
+    },
+    "pH": {
+        "preprocessing": {
+            "fill_value": 0,
+            "missing_value_strategy": "fill_with_const",
+            "normalization": null
+        }
+    },
+    "quality": {
+        "preprocessing": {
+            "fill_value": 0,
+            "missing_value_strategy": "fill_with_const"
+        }
+    },
+    "residual_sugar": {
+        "preprocessing": {
+            "fill_value": 0,
+            "missing_value_strategy": "fill_with_const",
+            "normalization": null
+        }
+    },
+    "sulphates": {
+        "preprocessing": {
+            "fill_value": 0,
+            "missing_value_strategy": "fill_with_const",
+            "normalization": null
+        }
+    },
+    "total_sulfur_dioxide": {
+        "preprocessing": {
+            "fill_value": 0,
+            "missing_value_strategy": "fill_with_const",
+            "normalization": null
+        }
+    },
+    "volatile_acidity": {
+        "preprocessing": {
+            "fill_value": 0,
+            "missing_value_strategy": "fill_with_const",
+            "normalization": null
+        }
+    }
+}
